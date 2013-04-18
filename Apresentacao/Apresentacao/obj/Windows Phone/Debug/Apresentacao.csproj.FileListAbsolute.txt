@@ -1,0 +1,15 @@
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\Apresentacao.dll
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\Apresentacao.pdb
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\Apresentacao.dll
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\Apresentacao.pdb
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\Apresentacao.xap
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\Content\Font.xnb
+C:\Users\Murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\obj\Windows Phone\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\Content\nave.xnb
+C:\Users\Murillo\documents\visual studio 2010\Projects\Game\Apresentacao\Apresentacao\bin\Windows Phone\Debug\Content\fire.xnb
