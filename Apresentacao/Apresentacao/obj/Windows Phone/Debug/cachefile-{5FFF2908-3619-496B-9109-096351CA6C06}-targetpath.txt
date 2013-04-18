@@ -1,3 +1,0 @@
-Content\Font.xnb
-Content\nave.xnb
-Content\fire.xnb
